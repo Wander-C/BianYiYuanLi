@@ -1,0 +1,20 @@
+﻿# 编译产物
+out/
+*.class
+*.jar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# 二进制大文件
+*.pdf
+*.pptx
+*.zip
+*.docx
+
+# 课程资料
+教材/
+课件/
+期末/
